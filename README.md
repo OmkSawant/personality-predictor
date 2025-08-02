@@ -95,3 +95,6 @@ Used the [MBTI Personality Dataset](https://www.kaggle.com/datasets/datasnaek/mb
 
 - 👤 [Om Sawant](https://github.com/OmkSawant)
 - 💬 Built as a beginner AI/ML project using real-world deployment
+
+### 🚀 Live Demo
+[Click here to try the app](https://personality-predictor-gf9f.onrender.com)
